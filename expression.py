@@ -1,6 +1,6 @@
 #Filename:expression.py
-length=5
-breadth=10
+length=15
+breadth=7
 area=length*breadth
 print 'Area is',area
 print 'Perimeter is',2*(length+breadth)
