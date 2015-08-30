@@ -1,8 +1,8 @@
 #Filename:while.py
 
 number=43
-running=Ture
-while running
+running=True
+while running:
 	guess=int(raw_input('Enter an integer:'))
 	if guess==number:
 		print 'Congratulations,you guessed it.'
